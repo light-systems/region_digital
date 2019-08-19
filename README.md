@@ -3,7 +3,7 @@
 Region is a journal dedicated to the artistic expressions of migrant communities and their first generation descendents in the midwest.
 <i>This repository contains the digital manifestation of this project.</i>
 
-[view Region Issue Demo](https://issuu.com/erickoduniyi/docs/06.24.19__unfinished__region01)
+[view Region Issu Demo](https://issuu.com/erickoduniyi/docs/06.24.19__unfinished__region01)
 
 ## Supporting Notes
 <div style="text-align: justify">
