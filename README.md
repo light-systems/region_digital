@@ -1,4 +1,10 @@
-![alt text](https://storage.googleapis.com/root-proposal-1246/REGION/region%208.5.19-One%20Pager-1.png)
+![slide1](https://storage.googleapis.com/root-proposal-1246/REGION/Slide1.PNG)
+
+![slide2](https://storage.googleapis.com/root-proposal-1246/REGION/Slide2.PNG)
+
+![slide3](https://storage.googleapis.com/root-proposal-1246/REGION/Slide3.PNG)
+
+![1pager](https://storage.googleapis.com/root-proposal-1246/REGION/region%208.5.19-One%20Pager-1.png)
 # REGION-DIGITAL
 Region is a journal dedicated to the artistic expressions of migrant communities and their first generation descendents in the midwest.
 <i>This repository contains the digital manifestation of this project.</i>
