@@ -11,7 +11,7 @@ Region is a journal dedicated to the artistic expressions of migrant communities
 <b>Team:</b> <i>E. Oduniyi, J.C Franco, Chad Onianwa</i>
 ![slide1](https://storage.googleapis.com/root-proposal-1246/REGION/Slide1.PNG)
 
-<b>[RCCL 001:](Projects/Region/REGION-DIGITAL/Projects/twittermaps/twitterMaps.md) </b><i>region twitterMap</i>  
+<b>[RCCL 001:](Projects/twittermaps/twitterMaps.md) </b><i>region twitterMap</i>  
 <b>Team:</b> <i>E. Oduniyi</i>  
 ![twitter.map](https://storage.googleapis.com/root-proposal-1246/REGION/region-map1.png)
 
