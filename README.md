@@ -37,11 +37,11 @@ Living in the American midwest has positioned our identities as either ephemeral
 
 ---
 ## Contact Us
-<i>Erick Oduniyi ([eeoduniyi@gmail](eeoduniyi@gmail.com))</i>  
-<span style="font-size:.75em;"><b>Interest: </b>Cognitive Science, Computational Design, Cultural Evolution, Ecological Sciences</span>
+##### Digital Content  
+<i>Erick Oduniyi ([eeoduniyi@gmail](eeoduniyi@gmail.com))</i>    
 
-<i>J.C Franco ([TBD@gmail.com](eeoduniyi@gmail.com))</i>  
-<span style="font-size:.75em;"><b>Interest: </b>TBD</span>
+##### Art Direction
+<i>J.C Franco</i>  
 
-<i>Chad Onianwa ([TBD@gmail.com](eeoduniyi@gmail.com))</i>  
-<span style="font-size:.75em;"><b>Interest: </b>TBD</span>
+##### Editor-in-Chief
+<i>Chad Onianwa</i>  
