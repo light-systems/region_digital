@@ -8,7 +8,7 @@ var isStop = false;
 var count = 0;
 
 function preload() {
-  imgs[0] = loadImage("img/region-logo-black-invert.png"); 
+  imgs[0] = loadImage("img/region-logo-black-invert.png");
 }
 
 function setup() {
