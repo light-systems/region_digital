@@ -1,4 +1,4 @@
-## [region!](https://eoduniyi.github.io/regionblog/)
+## [regionjournalblog!](https://eoduniyi.github.io/regionblog/)
 
 ---
 ## Mission Statement:
