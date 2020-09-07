@@ -1,5 +1,7 @@
-## `region` Mission Statement
+## [region!](https://eoduniyi.github.io/regionblog/)
 
+---
+## Mission Statement:
 ![1pager](https://storage.googleapis.com/root-proposal-1246/REGION/region%208.5.19-One%20Pager-1.png)
 
 ---
@@ -33,18 +35,14 @@ Living in the American midwest has positioned our identities as either ephemeral
 </div>
 
 ---
-## Contact Us
+## Team
 ##### Digital Content  
 <i>Erick Oduniyi ([eeoduniyi@gmail](eeoduniyi@gmail.com))</i>    
-
 ##### Art Direction
 <i>J.C Franco</i>  
-
 ##### Photography
 <i>Yusra Nabi<i>
-
 ##### Co-Editor
 <i>Syn Isaiah<i>
-  
 ##### Editor-in-Chief
 <i>Chad Onianwa</i>  
