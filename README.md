@@ -1,4 +1,4 @@
-# REGION-DIGITAL
+## `region` Mission Statement
 
 ![1pager](https://storage.googleapis.com/root-proposal-1246/REGION/region%208.5.19-One%20Pager-1.png)
 
