@@ -1,7 +1,4 @@
 # REGION-DIGITAL
-<div style="text-align: justify">
-Region is a journal dedicated to the artistic expressions of migrant communities and their first generation descendents in the midwest. This repository contains the digital manifestation of this project.
-</div>
 
 ![1pager](https://storage.googleapis.com/root-proposal-1246/REGION/region%208.5.19-One%20Pager-1.png)
 
@@ -43,5 +40,11 @@ Living in the American midwest has positioned our identities as either ephemeral
 ##### Art Direction
 <i>J.C Franco</i>  
 
+##### Photography
+<i>Yusra Nabi<i>
+
+##### Co-Editor
+<i>Syn Isaiah<i>
+  
 ##### Editor-in-Chief
 <i>Chad Onianwa</i>  
