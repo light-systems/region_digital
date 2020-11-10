@@ -66,14 +66,18 @@ _Unless they want to, I guess._
 <br/>  
 <br/>  
 <br/>  
-#### femme:
+
+#### 👩🏻‍🎨
 ![femme.png](femme.png) 
-[->](https://womens.theharvardadvocate.com/femme)
+
+> [->](https://womens.theharvardadvocate.com/femme)
 
 
-#### cherry
+#### 🍒
 ![cherry.png](cherry.png) 
-[->](https://www.thecrimson.com/article/2018/2/27/cherry-pits-endpaper/)
+
+> [->](https://www.thecrimson.com/article/2018/2/27/cherry-pits-endpaper/)
+
 <br/>  
 <br/>  
 <br/>  
