@@ -1,3 +1,10 @@
+![Region_December](https://storage.googleapis.com/blessa/region/region_december.png)
+
+[q4 strategic plan.](https://docs.google.com/document/d/15fap4IxnT5lAtqhbZdgmAbl_s-N0UjnyUQjEFXYsC68/edit)
+
+[issue 02 submission form.](https://docs.google.com/forms/d/1eXyhZdotpCp9uMOvtE7qJYNDmA27O_2BYJOddjU1DsA/edit)
+
+---
 ## Artifacts
 > Archaeology. 
 _plural noun_
